@@ -1,1 +1,1 @@
-# kafka-redis-cache-app
+# kafka-springcloud-streaming
